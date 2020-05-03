@@ -1,4 +1,4 @@
-Documentation rework and Google Season of Docs
+# Documentation rework and Google Season of Docs
 
 The upcoming release of Synfig 1.4.0 is brings a lot of changes, so we decided that it is a good moment to do a radical update of our documentation. As part of this effort we would like to migrate to Sphinx/ReadTheDocs format, which will make it easier to collaborate on writing and maintain quality of documentation.
 
