@@ -14,19 +14,3 @@ non-profit organization.
 More on how it works can be found here - https://opencollective.com/how-it-works.
 
 Our page at OpenCollective - https://opencollective.com/synfig
-
----
-
-shows where the money come from, how much money collected, and how they are spent.
-
-More on how it works can be found here - https://opencollective.com/how-it-works.
-
-We are introducing transparent ledger
-
-Synfig now has a page on OpenCollective.
-We have setup a transparent ledger at OpenCollective, which allows us to manage all donations and expences transparently.
-
-We now uses transparent ledger, which shows where money comes from and where it goes. This builds accountability and trust. With this we have a transparent budget for our community related activities, while keeping personal info private. 
-
-That allows to manage all expences transparently, so everyone can 
-everyone can see where the money come from, how much money collected, and how
