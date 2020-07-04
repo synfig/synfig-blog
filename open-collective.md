@@ -1,10 +1,12 @@
-# Transparent budget for Synfig
+# Transparent budget for Synfig community
 
 Image: https://fossbytes.com/wp-content/uploads/2017/01/open-collective.jpg
 
-We have setup a page at OpenCollective in order to manage all donations and expences transparently.
+Since 2013 Synfig has been supported with regular donations from many people, which helped to maintain its development and bring new features for benefit of everyone.
 
-OpenCollective is a transparent ledger service, which manages all financial transactions and publish information about them. 
+Now we are taking one more step towards improving our relationship with community by joining OpenCollective - a platform which will allow us to manage all donations and expences completely transparently.
+
+OpenCollective provides a transparent ledger service and takes responsibility for managing all financial transactions, while keeping those process open for community.
 
 That means:
 
